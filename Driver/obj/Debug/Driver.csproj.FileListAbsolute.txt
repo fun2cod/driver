@@ -1,0 +1,7 @@
+C:\Users\42190\source\repos\Driver\obj\Debug\Driver.csprojAssemblyReference.cache
+C:\Users\42190\source\repos\Driver\obj\Debug\Driver.csproj.CoreCompileInputs.cache
+C:\Users\42190\source\repos\Driver\bin\Debug\Driver.exe.config
+C:\Users\42190\source\repos\Driver\bin\Debug\Driver.exe
+C:\Users\42190\source\repos\Driver\bin\Debug\Driver.pdb
+C:\Users\42190\source\repos\Driver\obj\Debug\Driver.exe
+C:\Users\42190\source\repos\Driver\obj\Debug\Driver.pdb
